@@ -1,5 +1,5 @@
 # VokeCore
-Async server code for Brawl Stars servers.
+Async server core for Brawl Stars servers.
 
 # About
 
